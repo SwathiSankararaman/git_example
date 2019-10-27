@@ -2,3 +2,5 @@ Hi,
 This is my fist GIT attempt
 I am now clear with GIT
 bla bla bla
+Just adding a line
+
